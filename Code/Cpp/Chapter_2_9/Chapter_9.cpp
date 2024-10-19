@@ -6,6 +6,7 @@ using namespace std;
  	ElemType  data;
  	struct DNode *prior;
  	struct DNode *next;
+	
  }DLinkNode;
 ///////////头插法建立双链表//////////
 void CreateListF(DLinkNode *&l, ElemType a[], int n) {
