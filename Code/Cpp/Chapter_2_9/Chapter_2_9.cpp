@@ -1,6 +1,7 @@
 #include<iostream>
 typedef int ElemType;
 using namespace std;
+
 //////////双链表结构体定义///////////
  typedef struct DNode{
  	ElemType  data;
